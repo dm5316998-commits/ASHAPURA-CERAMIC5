@@ -1,0 +1,1 @@
+.hero-scroll,.hero-index,.hero-art,.hero-overlay,.hero-grain,.visual-break-art,.visual-break-overlay{position:absolute}.hero-scroll{display:flex}.hero-index{display:block}.hero-art,.hero-overlay,.hero-grain,.visual-break-art,.visual-break-overlay{inset:0}.hero-scroll{z-index:2}.hero-index{z-index:2}
